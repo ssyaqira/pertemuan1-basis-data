@@ -1,4 +1,4 @@
-# Cara menginstall aplikasi Dbeaver
+# Cara Menginstal Dbeaver
 ___
 
 1. Klik link berikut atau salin pada kolom pencarian browser anda: https://dbeaver.io/
