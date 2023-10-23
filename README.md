@@ -1,1 +1,0 @@
-# pertemuan1-basis-data
