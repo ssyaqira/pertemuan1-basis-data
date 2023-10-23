@@ -62,7 +62,7 @@ pada tutorial ini akan dilakukan instal aplikasi Dbeaver pada perangkat Windows
 
 ___
 
-## Hasil Instalasi
+## Hasil Instalasi DBeaver
 
 Aplikasi Pada Perangkat:
 
