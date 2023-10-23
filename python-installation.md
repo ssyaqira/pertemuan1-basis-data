@@ -1,7 +1,8 @@
-Cara mendownload Python
+# Cara Menginstal Python
+___
 
-Untuk perangkat Linux
-Python kemungkinan telah terinstall pada perangkat anda
+## Perangkat Linux
+Python kemungkinan telah terinstall pada perangkat Linux anda
 Adapun cara menggunakan/mengaktifkannya adalah sebagai berikut
 1. Buka terminal/konsol pada perangkat
 2. Ketik: python3
@@ -9,7 +10,9 @@ Adapun cara menggunakan/mengaktifkannya adalah sebagai berikut
 4. Jika muncul keterangan seperti ini maka python bisa langsung digunakan
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/8910cad8-7b37-4774-be4c-15818d0398d8)
 
-Untuk perangkat non-Linux
+___
+
+## Perangkat non-Linux
 1. Klik link berikut atau salin pada kolom pencarian browser anda: https://www.python.org/downloads/
 2. Setelah masuk ke situs tersebut akan terlihat tampilan sepebagai berikut
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/6cd66984-209a-405e-b905-1128465e069b)
