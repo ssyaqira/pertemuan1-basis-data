@@ -1,4 +1,4 @@
-Cara mendownload PostgreSQL
+# Cara menginstal PostgreSQL
 
 1. Klik link berikut atau salin pada kolom pencarian browser anda: https://www.postgresql.org/
 2. Link tersebut akan menampilkan situs seperti berikut ini
@@ -10,7 +10,7 @@ Cara mendownload PostgreSQL
 
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/a82ced59-1878-47d7-b968-92403ca3e1a9)
 
-pada tutorial ini akan dilakukan install aplikasi pada perangkat windows
+pada tutorial ini akan dilakukan instal aplikasi PostgreSQL pada perangkat windows
 
 6. Klik kalimat download the installer yang berwarna ungu
 
@@ -34,7 +34,7 @@ pada tutorial ini akan dilakukan install aplikasi pada perangkat windows
 
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/840d9af8-fd27-465e-b1d5-001f60653712)
 
-13. Pilih komponen yang akan di install
+13. Pilih komponen yang akan di instal
 
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/7035f912-815d-4222-91e1-defea2832142)
 
@@ -67,6 +67,8 @@ pada tutorial ini akan dilakukan install aplikasi pada perangkat windows
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/5e584339-29b2-4f9d-9ca1-c29ff3a4bc28)
 
 22. Aplikasi PostgreSQL sudah dapat digunakan pada perangkat
+
+___
 
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/69fe6039-02a4-4a17-b22c-9a1c7026c3db)
 
