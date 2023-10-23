@@ -1,4 +1,5 @@
 # Cara menginstal PostgreSQL
+___
 
 1. Klik link berikut atau salin pada kolom pencarian browser anda: https://www.postgresql.org/
 2. Link tersebut akan menampilkan situs seperti berikut ini
@@ -70,10 +71,20 @@ pada tutorial ini akan dilakukan instal aplikasi PostgreSQL pada perangkat windo
 
 ___
 
+## Hasil Instalasi
+
+Aplikasi pgAdmin 4:
+
+![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/c99aa103-8a00-4f46-9d8b-c9c984a8cb3f)
+
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/69fe6039-02a4-4a17-b22c-9a1c7026c3db)
 
-aplikasi pgAdmin 4
+![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/78bee11f-d6b8-4369-934b-6c50e33ed006)
+
+
+Aplikasi SQL Shell:
+
+![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/0af2ba0a-1781-477b-afe9-0081621ac729)
 
 ![image](https://github.com/ssyaqira/pertemuan1-basis-data/assets/148309532/6e712773-33bb-4f19-ad14-ef1993fac1ba)
 
-SQL Shell
