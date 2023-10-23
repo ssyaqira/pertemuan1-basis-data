@@ -1,4 +1,4 @@
-# Cara menginstal PostgreSQL
+# Cara Menginstal PostgreSQL
 ___
 
 1. Klik link berikut atau salin pada kolom pencarian browser anda: https://www.postgresql.org/
@@ -71,7 +71,7 @@ pada tutorial ini akan dilakukan instal aplikasi PostgreSQL pada perangkat windo
 
 ___
 
-## Hasil Instalasi
+## Hasil Instalasi PostgreSQL
 
 Aplikasi pgAdmin 4:
 
